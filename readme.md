@@ -36,7 +36,7 @@
 
 
 <h1 align="center">
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coverman9)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
