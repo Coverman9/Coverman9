@@ -36,12 +36,10 @@
 
 
 
-<h1 align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Coverman9&show_icons=true&theme=transparent" />
-<!--
-https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
--->
-</h1>
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Coverman9&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
+</div>
 
 
 <!--
